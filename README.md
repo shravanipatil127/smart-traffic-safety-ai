@@ -176,3 +176,8 @@ Opens at `http://localhost:8501` — upload images or videos and see results ins
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
 - [Roboflow Universe](https://universe.roboflow.com)
 - [OpenCV](https://opencv.org)
+
+
+---
+© 2026 Shravani Patil  
+Licensed under the MIT License

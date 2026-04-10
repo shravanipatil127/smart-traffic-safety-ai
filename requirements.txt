@@ -1,0 +1,11 @@
+# Helmet & Seatbelt Detection — Python dependencies
+# Install with: pip install -r requirements.txt
+
+ultralytics>=8.0.0       # YOLOv8 — detection + training
+opencv-python>=4.8.0     # Video capture, image processing, drawing
+numpy>=1.24.0            # Array operations
+Pillow>=9.5.0            # Image loading for Streamlit
+streamlit>=1.28.0        # Web demo UI
+roboflow>=1.1.0          # Dataset download helper (optional)
+torch>=2.0.0             # PyTorch backend for YOLOv8
+torchvision>=0.15.0      # Vision transforms
